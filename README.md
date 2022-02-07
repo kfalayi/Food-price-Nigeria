@@ -1,6 +1,5 @@
 ### Nigeria is battling a food price inflation, I try to look at what the data says
-# Analysis of the dataset shows that much of Nigeria's food producing states are battling violent activities. Is this the cause of the food inflation seen in different parts of the country, especially the southern part of the country where the prices are higher? 
-<hr>
+** Analysis of the dataset shows that much of Nigeria's food producing states are battling violent activities. Is this the cause of the food inflation seen in different parts of the country, especially the southern part of the country where the prices are higher? 
 
 
 An analysis of food price index in Nigeria that looks at insecurity as a cause for food inflation
