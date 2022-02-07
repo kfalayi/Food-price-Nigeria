@@ -12,13 +12,12 @@ Also, I used [another dataset](https://github.com/kfalayi/Food_price_Nigeria/blo
 The prices in the datasets are in Naira and I decided to stick to that. $1 equalis ₦416.2. For each item in the dataset, for anyone who is wondering about the unit of measurement, they are explained on pages 4 to 14 of [this NBS report](file:///Users/owner/Downloads/SELECTED%20FOOD%20DECEMBER%202021%20REPORT.pdf).
 
 A needed another data that gives an insight on the security issues of Nigeria, the best I could find is Council on Foreign Affairs which collates data on different forms of violent activities in the country and I used its security [tracker data](https://github.com/kfalayi/Food_price_Nigeria/blob/main/attacks.xlsx), which covers the last 10 years.
-<hr>
 
 # Data Analysis
 Analyis is done using Python with Pandas and Plotnine.
 The most important tool to import initially are pandas and all the plotnine's syntactic tools.
 
-** import pandas as pd
+### import pandas as pd
 pd.set_option('display.max_columns', None)
 from plotnine import *
 
