@@ -17,9 +17,9 @@ A needed another data that gives an insight on the security issues of Nigeria, t
 Analyis is done using Python with Pandas and Plotnine.
 The most important tool to import initially are pandas and all the plotnine's syntactic tools.
 
-### import pandas as pd
-pd.set_option('display.max_columns', None)
-from plotnine import *
+** import pandas as pd **
+** pd.set_option('display.max_columns', None)**
+** from plotnine import * **
 
 I first import my initial dataset, which does not allow me to do the needed analysis because the dates appear as column titles.
 
